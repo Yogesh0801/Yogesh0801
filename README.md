@@ -43,8 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/c/codeeyog" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" height="40" alt="YouTube" />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.hackerrank.com/ybandewar81878" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" height="40" alt="HackerRank" />
   </a>
