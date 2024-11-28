@@ -75,13 +75,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yogesh0801&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
 </p>
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Yogesh0801//Yogesh0801//output/snake.svg" alt="Snake animation" />
-
-###
 <p align="center">
   ⚡ Fun Fact: I think I am funny! 😄
 </p>
