@@ -8,11 +8,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh0801&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="Yogesh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yogesh0801&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages" />
-</div>
-
 ---
 
 <h2 align="left">🔭 Current Projects</h2>
